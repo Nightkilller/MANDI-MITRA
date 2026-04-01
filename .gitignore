@@ -1,0 +1,44 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+*.egg-info/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Data (large files)
+data/raw/
+data/processed/
+
+# ML Models (large binary files)
+*.pt
+*.pkl
+*.h5
+*.onnx
+ml/saved_models/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Build
+dist/
+build/
+*.log
+
+# Test
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Docker
+docker/.env

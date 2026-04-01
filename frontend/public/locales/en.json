@@ -1,0 +1,23 @@
+{
+  "app": {
+    "title": "MandiMitra XAI",
+    "tagline": "Explainable Market Intelligence for MP Farmers",
+    "dashboard": "Dashboard",
+    "forecast": "Price Forecast",
+    "explain": "Why?",
+    "recommend": "Recommendations",
+    "harvest": "Harvest Optimizer"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error loading data",
+    "sell_now": "Sell Now",
+    "store_7d": "Store 7 Days",
+    "store_14d": "Store 14 Days",
+    "crop": "Crop",
+    "mandi": "Mandi",
+    "confidence": "Confidence",
+    "baseline_price": "Baseline Price",
+    "predicted_price": "Predicted Price"
+  }
+}

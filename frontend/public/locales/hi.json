@@ -1,0 +1,23 @@
+{
+  "app": {
+    "title": "मंडीमित्र XAI",
+    "tagline": "मध्य प्रदेश के किसानों के लिए AI मूल्य अनुमान",
+    "dashboard": "डैशबोर्ड",
+    "forecast": "मूल्य अनुमान",
+    "explain": "क्यों?",
+    "recommend": "सलाह",
+    "harvest": "कटाई विकल्प"
+  },
+  "common": {
+    "loading": "लोड हो रहा है...",
+    "error": "डेटा लोड करने में त्रुटि",
+    "sell_now": "अभी बेचें",
+    "store_7d": "7 दिन रखें",
+    "store_14d": "14 दिन रखें",
+    "crop": "फसल",
+    "mandi": "मंडी",
+    "confidence": "विश्वास",
+    "baseline_price": "आधार भाव",
+    "predicted_price": "अनुमानित भाव"
+  }
+}

@@ -1,0 +1,12 @@
+date,crop,mandi,min_price,max_price,modal_price,arrival_tonnes
+2024-01-01,tomato,indore,800,1400,1100,312
+2024-01-02,tomato,indore,850,1500,1150,298
+2024-01-03,tomato,indore,900,1600,1200,276
+2024-01-01,onion,indore,600,1000,780,520
+2024-01-02,onion,indore,580,980,760,545
+2024-01-01,wheat,indore,2100,2300,2200,1200
+2024-01-02,wheat,indore,2150,2350,2220,1100
+2024-01-01,soybean,indore,3800,4200,4000,890
+2024-01-02,soybean,indore,3850,4250,4050,910
+2024-01-01,tomato,bhopal,750,1350,1050,245
+2024-01-02,tomato,bhopal,800,1400,1100,231
