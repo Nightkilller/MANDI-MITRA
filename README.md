@@ -15,7 +15,7 @@ MandiMitra XAI is a full-stack, production-grade Explainable Artificial Intellig
 
 Unlike conventional black-box AI systems, MandiMitra XAI emphasizes **transparency** by providing SHAP-based explanations for every prediction, enabling farmers to understand *why* the AI recommends a particular action. 
 
-## ✨ Key Features
+## ✨ Key Feature
 
 - 🔮 **Probabilistic Forecasting**: 14-day price predictions using PyTorch LSTM with Bahdanau attention for 10 major crops across 10 districts.
 - 🧠 **Explainability (XAI)**: SHAP (Shapley Additive exPlanations) provides transparent reasoning behind AI predictions in simple language.
