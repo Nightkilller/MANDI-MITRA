@@ -11,7 +11,7 @@
 
 <br/>
 
-MandiMitra XAI is a full-stack, production-grade Explainable Artificial Intelligence (XAI) platform designed to assist farmers in Madhya Pradesh (India) with data-driven agricultural decisions. 
+MandiMitra XAI is a full-stack,production-grade Explainable Artificial Intelligence (XAI) platform designed to assist farmers in Madhya Pradesh (India) with data-driven agricultural decisions. 
 
 Unlike conventional black-box AI systems, MandiMitra XAI emphasizes **transparency** by providing SHAP-based explanations for every prediction, enabling farmers to understand *why* the AI recommends a particular action. 
 
